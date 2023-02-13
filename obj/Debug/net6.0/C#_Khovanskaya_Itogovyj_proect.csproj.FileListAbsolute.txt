@@ -1,0 +1,15 @@
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\bin\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.exe
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\bin\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.deps.json
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\bin\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.runtimeconfig.json
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\bin\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\bin\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.pdb
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.csproj.AssemblyReference.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.AssemblyInfoInputs.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.AssemblyInfo.cs
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\refint\C#_Khovanskaya_Itogovyj_proect.dll
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.pdb
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\C#_Khovanskaya_Itogovyj_proect.genruntimeconfig.cache
+D:\GeekBrains\Уроки\C#_Khovanskaya_Itogovyj_proect\obj\Debug\net6.0\ref\C#_Khovanskaya_Itogovyj_proect.dll

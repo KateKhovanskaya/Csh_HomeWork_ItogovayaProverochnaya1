@@ -1,8 +1,10 @@
-﻿string[] arr={"hello", "2", "world", ":-)"};
+﻿Console.WriteLine("Введите любые наборы символов через пробел:");
+string[] arr=Console.ReadLine()!.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+//string[] arr={"hello", "2", "world", ":-)"};
 int rezCount = LengthRezaltArr(arr);
 Console.Write($"[{String.Join(",", FillRezultArr(rezCount))}]");
 //----------------Методы----------------
-//Определение длинв результативного массива
+//Определение длинны результативного массива
 int LengthRezaltArr(string[]arr){
     int rezCount=0;
     for(int i=0;i<arr.Length;i++){
